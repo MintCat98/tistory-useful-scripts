@@ -1,3 +1,4 @@
+// 출처: https://dev-mintcat.tistory.com/12 [Dev-MintCat:티스토리]
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const paragraphs = document.querySelectorAll("p");
